@@ -1,1 +1,1 @@
-# Cloth-Segmentation---Virtual-Try-On
+# Cloth-Segmentation-Virtual-Try-On
